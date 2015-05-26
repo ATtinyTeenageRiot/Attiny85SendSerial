@@ -2,6 +2,13 @@
 
 For debugging..
 
+Library: Send Only Software Serial
+http://gammon.com.au/Arduino/SendOnlySoftwareSerial.zip
+
+Core: Arduino-tiny core 
+https://code.google.com/p/arduino-tiny/
+
+
 ## Pin Configuration
 
 ``` c
