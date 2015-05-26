@@ -8,6 +8,7 @@ http://gammon.com.au/Arduino/SendOnlySoftwareSerial.zip
 Core: Arduino-tiny core 
 https://code.google.com/p/arduino-tiny/
 
+Board: choose Attiny85 PLL 16 Mhz
 
 ## Pin Configuration
 
