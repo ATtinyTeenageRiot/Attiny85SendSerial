@@ -1,6 +1,6 @@
 #include <SendOnlySoftwareSerial.h>
 
-SendOnlySoftwareSerial mySerial (0);  // Tx pin
+SendOnlySoftwareSerial mySerial (PB0);  // Tx pin
 
 void setup ()
   {
